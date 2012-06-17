@@ -1,0 +1,20 @@
+WOLFRAM PLUGIN IN DEUTSCH
+
+hab bloss die Zeile
+
+ self.say("Dies könnte Ihre Frage beantworten:")
+
+durch
+
+ self.say("Dies koennte Ihre Frage beantworten:")
+
+ersetzt, für die richtige deutsche aussprache.
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "wolfram" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "wolfram" in plugins.conf ein
+
+FERTIG
